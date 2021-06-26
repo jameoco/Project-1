@@ -34,8 +34,8 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 - Filebeat is used to monitor log files or locations you specify, collects log events, then logs them within elasticearch or Logstash for indexing
 - Metricbeat is used for collecting informatuion of the operating system and services running on the server. 
 ​
-The configuration details of each machine may be found below.
-- 
+The configuration details of each machine may be found below.<br>
+
 | Name       | Function   | IP Address | Operating System |
 |------------|------------|------------|------------------|
 | Jump Box   | Gateway    | 10.0.0.2   | Linux            |
@@ -53,8 +53,8 @@ Only the jump-box Provisioner machine can accept connections from the Internet. 
 Machines within the network can only be accessed by the Jumpbox.
 - the jumpbox public ip was used. 13.82.29.87
 ​
-A summary of the access policies in place can be found in the table below.
-- 
+A summary of the access policies in place can be found in the table below.<br>
+
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
 | Jump Box | Yes                 | 73.229.20.24         |
