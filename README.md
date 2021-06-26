@@ -52,7 +52,7 @@ Machines within the network can only be accessed by the Jumpbox.
 - the jumpbox public ip was used. 13.82.29.87
 ​
 A summary of the access policies in place can be found in the table below.
-​
+- 
 | Name     | Publicly Accessible | Allowed IP Addresses |
 |----------|---------------------|----------------------|
 | Jump Box | Yes                 | 73.229.20.24         |
