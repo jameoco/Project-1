@@ -1,9 +1,9 @@
 # Project-1
 Project components completed up to project 1. this includes Linux Bash, Ansible Playbooks, Network Diagrams and other code based projects.
 ​
-# Automated ELK Stack Deployment
+Automated ELK Stack Deployment
 ​
-# The files in this repository were used to configure the network depicted below.
+The files in this repository were used to configure the network depicted below.
 ​
 ![image](https://user-images.githubusercontent.com/80502251/123495660-dd2cf100-d5e1-11eb-9732-0703e3c486ef.png)
 ​
