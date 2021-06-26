@@ -32,7 +32,7 @@ additionally, a Jumpbox was added to the network. This is added as an additional
 ​
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the Jumpbox and system Network.
 - Filebeat is used to monitor log files or locations you specify, collects log events, then logs them within elasticearch or Logstash for indexing
-- Metricbeat is used for collecting informatuion of the operating system and services running on the server. 
+- Metricbeat is used for collecting informatuion of the operating system and services running on the server.<br>
 ​
 The configuration details of each machine may be found below.<br>
 
