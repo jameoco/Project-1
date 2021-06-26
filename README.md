@@ -6,9 +6,9 @@ Automated ELK Stack Deployment
 The files in this repository were used to configure the network depicted below.<br>
 <br>
 ​
-![image](https://user-images.githubusercontent.com/80502251/123496829-54b14f00-d5e7-11eb-98c1-80f0fffbe4a7.png))<br>
+![image](https://user-images.githubusercontent.com/80502251/123496829-54b14f00-d5e7-11eb-98c1-80f0fffbe4a7.png)<br>
 <br>
-​
+
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above or alternatively, select portions of the Ansible file may be used to install only certain pieces of it, such as Filebeat.
 ​
 - https://github.com/jameoco/Project-1/blob/main/Ansible/Install-ELK.yml
