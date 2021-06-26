@@ -82,7 +82,7 @@ This ELK server is configured to monitor the following machines:
 - 10.0.0.3
 - 10.0.0.4
 ​
-We have installed the following Beats on these machines:
+### We have installed the following Beats on these machines:
 - Filebeat
 - Metricbeat
 ​
