@@ -98,8 +98,7 @@ SSH into the control node and follow the steps below:
 - Update the  Hosts file to include ELK and Webserver ip addresses
 - Run the playbook, and navigate to new ELK Kibana website to check that the installation worked as expected. do this by typing in the ELK_publicip_IP:5601 into a webbrowser. if it takes you to the home page for that ip it is working properly.
 ​
-## Commands to install and run playbook
-​
+## Commands to install and run playbook:
 -cd /etc/ansible
 -nano ELK-Install.yml
 -cd nano hosts
