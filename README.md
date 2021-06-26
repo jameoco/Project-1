@@ -115,6 +115,6 @@ SSH into the control node and follow the steps below:
 ​
 -ansible-playbook filebeat-playbook.yml (https://github.com/jameoco/Project-1/blob/main/Ansible/Filebeat-Playbook.yml)
 ​
-ansible-playbiook metricbeat.yml (https://github.com/jameoco/Project-1/blob/main/Ansible/metricbeat-playbook.yml)
+-ansible-playbiook metricbeat.yml (https://github.com/jameoco/Project-1/blob/main/Ansible/metricbeat-playbook.yml)
 ​
 - go to web browser and type http://elkserverip:5601/app/kibana
