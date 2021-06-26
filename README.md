@@ -101,7 +101,7 @@ These Beats allow us to collect the following information from each machine:
 - Metricbeat - will be used for collecting informatuion of the operating system and services running on the server.
 ​
 ### Using the Playbook
-In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
+In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: <br>
 ​
 SSH into the control node and follow the steps below:
 - Copy the Install-ELK.yml file to /etc/ansible.
