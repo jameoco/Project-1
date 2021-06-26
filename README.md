@@ -9,7 +9,7 @@ Diagrams/Azure Network Diagram.pdf is where the network layout for this readme c
 ​
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above or alternatively, select portions of the Ansible file may be used to install only certain pieces of it, such as Filebeat.
 ​
- Ansible/Install-ELK.yml
+ https://github.com/jameoco/Project-1/blob/main/Ansible/Install-ELK.yml
 ​
 This document contains the following details:
 - Description of the Topology
