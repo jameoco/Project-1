@@ -1,14 +1,14 @@
 Answer the following questions:<br>
 <br>
 In the last 7 days, how many unique visitors were located in India?<br>
-- 223
+223<br>
 In the last 24 hours, of the visitors from China, how many were using Mac OSX?<br>
-- 13
+13<br>
 In the last 2 days, what percentage of visitors received 404 errors? How about 503 errors?<br>
-- 404: 0-7%
-- 503: 0-3.8%
+404: 0-7%<br>
+503: 0-3.8%<br>
 In the last 7 days, what country produced the majority of the traffic on the website?<br>
-•	China
+China <br>
 o	Of the traffic that's coming from that country, what time of day had the highest amount of activity?
 •	12pm-1pm
 o	List all the types of downloaded files that have been identified for the last 7 days, along with a short description of each file type (use Google if you aren't sure about a particular file type).
