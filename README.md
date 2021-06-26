@@ -70,9 +70,10 @@ A summary of the access policies in place can be found in the table below.<br>
 ### Elk Configuration
 ​
 Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because...
-- Automating using ansible is highly preferable for this type of situation. To type out the full set of code alone can take several minutes if you know it by heart. To have to do that over and over for every new machine being added to the network can be cumbersome. This allows us to automate the process and to it at the click of a button. Also, we can edit these setups as we may only want some of these services on some new VM’s or we may want to add additional services to other VM’s. ansible allows us to have custom builds and keep them ready to go at a moment’s notice. <br>
-​
+- Automating using ansible is highly preferable for this type of situation. To type out the full set of code alone can take several minutes if you know it by heart. To have to do that over and over for every new machine being added to the network can be cumbersome. This allows us to automate the process and to it at the click of a button. Also, we can edit these setups as we may only want some of these services on some new VM’s or we may want to add additional services to other VM’s. ansible allows us to have custom builds and keep them ready to go at a moment’s notice. 
 <br>
+​
+
 The playbook implements the following tasks:
 - Install Docker.io
 - Install pip3
