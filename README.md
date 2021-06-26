@@ -75,7 +75,7 @@ The playbook implements the following tasks:
 ​
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 ​
-Diagrams/Docker PS Screenshots.pdf
+https://github.com/jameoco/Project-1/blob/main/Diagrams/Docker%20PS%20Screenshots.pdf
 ​
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
@@ -100,12 +100,21 @@ SSH into the control node and follow the steps below:
 ​
 ## Commands to install and run playbook:
 -cd /etc/ansible
+​
 -nano ELK-Install.yml
+​
 -cd nano hosts
-change webservers and ELK IP addresses
+​
+-change webservers and ELK IP addresses
+​
 -change webservers ip address for new web server
+​
 -change ELK to new ELK server IP
--ansible-playbook install-elk.yml
--ansible-playbook filebeat-playbook.yml
-ansible-playbiook metricbeat.yml
+​
+-ansible-playbook install-elk.yml (https://github.com/jameoco/Project-1/blob/main/Ansible/Install-ELK.yml)
+​
+-ansible-playbook filebeat-playbook.yml (https://github.com/jameoco/Project-1/blob/main/Ansible/Filebeat-Playbook.yml)
+​
+ansible-playbiook metricbeat.yml (https://github.com/jameoco/Project-1/blob/main/Ansible/metricbeat-playbook.yml)
+​
 - go to web browser and type http://elkserverip:5601/app/kibana
