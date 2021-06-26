@@ -33,7 +33,7 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 - Metricbeat is used for collecting informatuion of the operating system and services running on the server. 
 ​
 The configuration details of each machine may be found below.
-​
+- 
 | Name       | Function   | IP Address | Operating System |
 |------------|------------|------------|------------------|
 | Jump Box   | Gateway    | 10.0.0.2   | Linux            |
