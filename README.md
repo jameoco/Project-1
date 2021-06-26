@@ -24,11 +24,11 @@ This document contains the following details:
 ​
 ### Description of the Topology
 ​
-The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.
+The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the D*mn Vulnerable Web Application.<br>
 ​
-- load balancing achieves a greater amount of reliability by ensuring web traffic has access to redundant web servers. if 1 of the 2 web servers goes down or has any issues handling the amount of traffic coming in the load balancer will automatically switch to the backup web server to allow consistent access. 
+load balancing achieves a greater amount of reliability by ensuring web traffic has access to redundant web servers. if 1 of the 2 web servers goes down or has any issues handling the amount of traffic coming in the load balancer will automatically switch to the backup web server to allow consistent access.<br> 
 ​
-- additionally, a Jumpbox was added to the network. This is added as an additional layer of security insulating the network from the rest of the internet. We can control who has access to the jumpbox through IP and port management reducing the risk of breaches.
+- additionally, a Jumpbox was added to the network. This is added as an additional layer of security insulating the network from the rest of the internet. We can control who has access to the jumpbox through IP and port management reducing the risk of breaches.<br>
 ​
 Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the Jumpbox and system Network.
 - Filebeat is used to monitor log files or locations you specify, collects log events, then logs them within elasticearch or Logstash for indexing
