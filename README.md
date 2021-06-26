@@ -51,10 +51,11 @@ The configuration details of each machine may be found below.<br>
 ​
 The machines on the internal network are not exposed to the public Internet. <br>
 ​
-Only the jump-box Provisioner machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
+Only the jump-box Provisioner machine can accept connections from the Internet.<br>
+Access to this machine is only allowed from the following IP addresses:
 - this was my public IP address. 73.229.20.24
 ​
-Machines within the network can only be accessed by the Jumpbox.
+Machines within the network can only be accessed by the Jumpbox.<br>
 - the jumpbox public ip was used. 13.82.29.87
 ​
 A summary of the access policies in place can be found in the table below.<br>
