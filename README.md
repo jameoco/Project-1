@@ -79,8 +79,8 @@ https://github.com/jameoco/Project-1/blob/main/Diagrams/Docker%20PS%20Screenshot
 ​
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
-- 10.0.0.3
-- 10.0.0.4
+- Web-1 10.0.0.3
+- Web-2 10.0.0.4
 ​
 ### We have installed the following Beats on these machines:
 - Filebeat
